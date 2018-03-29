@@ -45,7 +45,7 @@ export default class ResetPassword extends Component<{}> {
           
                 <View style={styles.login_logo_container}>
                   <Image source={require('../assets/logo.png')} resizeMode="stretch" style={styles.login_logo} />
-                  <Text style={{fontSize:moderateScale(30,0.10),color:'#fff',marginLeft:scale(115),fontFamily: 'Signika-SemiBold'}}>Selfcare</Text>
+              
                 </View>
 
                 <View style={styles.bodyContainer}>
